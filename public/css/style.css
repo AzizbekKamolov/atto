@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+#card{
+    background-color:#6146ff;
+    margin: 100px;
+    padding: 25px;
+}
+#card-body{
+    border: 25px;
+    width: 150px;
+}
+div{
+    background: #000;
+}
