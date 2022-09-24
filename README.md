@@ -1,14 +1,11 @@
-<p align="center"><img src="https://camo.githubusercontent.com/ac4c92d1401fedc477913ae8e79bccca036079a5ffabab9366b2d285a105f436/68747470733a2f2f61646d696e6c74652e696f2f41646d696e4c5445332e706e67"></p>
-
-## About Template
-
-This is ready admin panel template with
-- [AdminLte V3](https://adminlte.io/themes/v3/)
-- [Laravel 8](https://laravel.com/docs/8.x)
-- [Laravel-permissions (Spatie.be)](https://spatie.be/docs/laravel-permission/v3/introduction)
-- [Authorization laravel/ui](https://github.com/laravel/ui)
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-# Laravel 8 & AdminLte 3.0 & RBAC
-"# atto" 
-"# atto_uz" 
+Clients
+![image](https://user-images.githubusercontent.com/96434885/192108627-3bd38eab-059b-4825-b835-878d3a3e9790.png)
+![image](https://user-images.githubusercontent.com/96434885/192108641-d2903afe-f61b-441f-a2a8-a09ccecb1193.png)
+![image](https://user-images.githubusercontent.com/96434885/192108668-054887cb-a6c3-44b7-a997-978ab89aaabf.png)
+Cards
+![image](https://user-images.githubusercontent.com/96434885/192108684-e24cfeb6-3539-42f8-84bc-0fc51130709f.png)
+![image](https://user-images.githubusercontent.com/96434885/192108704-68471d66-2966-4570-929d-568b8fc8e357.png)
+![image](https://user-images.githubusercontent.com/96434885/192108719-20346c56-42f2-483a-bf1d-2ef8fe79ca56.png)
+![image](https://user-images.githubusercontent.com/96434885/192108726-7433f844-c10f-4914-9f87-6f2f074215a2.png)
+Account money Transfers
+![image](https://user-images.githubusercontent.com/96434885/192108750-2017542d-b342-49c4-bfa1-1d9a2e806f17.png)
