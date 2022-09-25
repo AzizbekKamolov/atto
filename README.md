@@ -1,6 +1,6 @@
 Clients
-![image](https://user-images.githubusercontent.com/96434885/192108627-3bd38eab-059b-4825-b835-878d3a3e9790.png)
-![image](https://user-images.githubusercontent.com/96434885/192108641-d2903afe-f61b-441f-a2a8-a09ccecb1193.png)
+![image](https://user-images.githubusercontent.com/96434885/192130690-cebf851a-378a-48e6-81c8-034094bf605b.png)
+![image](https://user-images.githubusercontent.com/96434885/192130702-fe60f38f-b13b-4b88-9073-dcc7a808f32e.png)
 ![image](https://user-images.githubusercontent.com/96434885/192108668-054887cb-a6c3-44b7-a997-978ab89aaabf.png)
 <br>
 <br>
